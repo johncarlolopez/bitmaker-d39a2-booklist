@@ -1,7 +1,7 @@
-![Bitmaker](https://github.com/johncarlolopez/bitmaker-reference/blob/master/bitmakerlogo.svg)# 02 - Different Response Types
+![Bitmaker](https://github.com/johncarlolopez/bitmaker-reference/blob/master/bitmakerlogo.svg)
+# 02 - Different Response Types
 ### Friday, Feb 2nd
 
-# Different Response Types
 [See assignment in Alexa.](https://alexa.bitmaker.co/wdi/67/assignments/2044/latest)
 
 ## Step 1: Normal HTML response
